@@ -2,12 +2,12 @@
 public class Lab01_03 {
 	public static void main (String[] args){
 		//making a :)ace
-		System.out.println("o       o\n    _");
+		System.out.print("o       o\n    _");
 		//making a circle
-		System.out.println("0");
+		System.out.print("0");
 		//making a square
-		System.out.println(" ______");
-		System.out.println("1          1");
-		System.out.println("1_____1");
+		System.out.print(" ______\n");
+		System.out.print("1          1\n");
+		System.out.print("1_____1");
 	}
 }
